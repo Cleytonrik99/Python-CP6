@@ -1,4 +1,6 @@
-*TABELA DE ENDPOINTS*
+## Cleyton Enrike de Oliveira - RM: 560485
+
+## 🔌 TABELA DE ENDPOINTS
 
 | Método   | Endpoint                                                             | Descrição                                               |
 |----------|----------------------------------------------------------------------|---------------------------------------------------------|
@@ -9,7 +11,7 @@
 | PATCH    | http://localhost:8080/jogos/<int:id>                                 | Atualiza as informações do jogo com o id correspondente |
 
 
-**EXEMPLO DE JSON PARA POST E PATCH**
+## EXEMPLO DE JSON PARA POST E PATCH
 
 {
     "ano": [Ano do Jogo],
