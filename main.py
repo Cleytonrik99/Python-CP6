@@ -1,20 +1,3 @@
-# Sobre o projeto
-#  Sua tarefa é desenvolver uma API usando python que representa um CRU de um recurso.
-#  Faz parte do trabalho o grupo definir o recurso que será implementado. Alguns recursos
-#  não podem ser implementados: veículo, pergunta, pessoa, produto, endereço e mensagem.
-#  Procure algum outro tipo de elemento/recurso para fazer a implementação.
-
-
-# Requisitos
-#  • o recurso precisa ter no mínimo 4 campos
-#  • o campo id é um campo obrigatório e deve ser definido pelo banco de dados
-#  • pelo menos um campo do tipo String
-#  • pelo menos um campo do tipo numérico
-#  • pelo menos duas funções de consulta 
-#     -recupera um recurso pelo id 
-#     –recupera um conjunto de recursos através de um parâmetro que você deve definir
-
-
 # Cleyton Enrike de Oliveira  
 #   RM: 560485
 
